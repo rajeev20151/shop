@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d58c919.css",
+    "main.js": "/static/js/main.6a2ae2fc.js",
+    "static/media/man1.jpg": "/static/media/man1.6e25879d617b6c40b0c1.jpg",
+    "static/media/background.jpg": "/static/media/background.499eba7e3ed55b163fa2.jpg",
+    "static/media/woman1.jpg": "/static/media/woman1.29acf4913d15f3195cde.jpg",
+    "static/media/man2.jpg": "/static/media/man2.8325093eb13bb7be76b2.jpg",
+    "static/media/man3.jpg": "/static/media/man3.a6abbd7d84739de3e3cb.jpg",
+    "static/media/man6.jpg": "/static/media/man6.d03a21517f9871ab1fa3.jpg",
+    "static/media/background2.jpg": "/static/media/background2.eb1e0b45fa920e023cd7.jpg",
+    "static/media/man4.jpg": "/static/media/man4.d66755f960ec999d3a5b.jpg",
+    "static/media/woman3.jpg": "/static/media/woman3.49d46624933ff02e67c7.jpg",
+    "static/media/woman4.jpg": "/static/media/woman4.ad2ce826b592552e108c.jpg",
+    "static/media/man5.jpg": "/static/media/man5.8c2e2e7f9a33991c315d.jpg",
+    "static/media/woman2.jpg": "/static/media/woman2.069ee2a50a679b2668d8.jpg",
+    "static/media/kid1.jpg": "/static/media/kid1.17539b7804ca86caca2a.jpg",
+    "static/media/kid2.jpg": "/static/media/kid2.73e446df4fd8b6b20612.jpg",
+    "static/media/kid4.jpg": "/static/media/kid4.f5bd3181ac50dcdb6c2d.jpg",
+    "static/media/kid5.jpg": "/static/media/kid5.669d5873994f1e80cdca.jpg",
+    "static/media/kid3.jpg": "/static/media/kid3.36fe2ce5542ef21b2003.jpg",
+    "static/media/woam5.jpg": "/static/media/woam5.059dacb64f1e296c5da8.jpg",
+    "index.html": "/index.html",
+    "main.6d58c919.css.map": "/static/css/main.6d58c919.css.map",
+    "main.6a2ae2fc.js.map": "/static/js/main.6a2ae2fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d58c919.css",
+    "static/js/main.6a2ae2fc.js"
+  ]
+}
